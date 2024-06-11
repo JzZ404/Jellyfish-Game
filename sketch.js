@@ -1,13 +1,9 @@
-//VIS 145 Final project 
-
-
-/*credits:
-flow field reference fromm https://editor.p5js.org/arthurrc/sketches/Bya9WiAnm (flow field reference
-p5js documentation from
-https://p5js.org/reference/
+/* 
+Credits:
+A collaboration between Joyce and Spade.
+Flow field reference from https://editor.p5js.org/arthurrc/sketches/Bya9WiAnm (flow field reference.
+p5.js documentation from https://p5js.org/reference/.
 */
-
-
 
 let inc = 0.1;
 let scl = 15;
